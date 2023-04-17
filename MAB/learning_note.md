@@ -177,19 +177,19 @@ $$
 
 * bandit_10_5000：
 
-![bandit_10_5000](/home/taqiyya/Documents/greedy-ucb-ts/bandit_10_5000.png)
+![bandit_10_5000](./IMG/bandit_10_5000.png)
 
 * bandit_10_50000
 
-![bandit_10_50000](/home/taqiyya/Documents/greedy-ucb-ts/bandit_10_50000.png)
+![bandit_10_50000](./IMG/bandit_10_50000.png)
 
 * bandit_100_5000
 
-![bandit_100_5000](/home/taqiyya/Documents/greedy-ucb-ts/bandit_100_5000.png)
+![bandit_100_5000](./IMG/bandit_100_5000.png)
 
 * bandit_100_50000
 
-![bandit_100_50000.png](/home/taqiyya/Documents/greedy-ucb-ts/bandit_100_50000.png.png)
+![bandit_100_50000.png](./IMG/bandit_100_50000.png)
 
 对于10，50臂老虎机，这里完成了对其测尝试5000，50000次。
 
